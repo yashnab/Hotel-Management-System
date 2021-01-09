@@ -1,1 +1,1 @@
-# Hotel-Management-System
+It is a mini format of management system that enabled a hotel to manage front-office capabilities, such as booking reservations, guest check-in/checkout, room assignment, managing room rates, and billing. 
